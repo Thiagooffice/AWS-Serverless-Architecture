@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "a+BRW5XCW72NbQ3Eo8ShH8R9MQgh7Nh5QZDUnQnKrCgac06WaQm5dH1Ct+YY81EvC9+/bj5Ozx9ZrINU2hsMig==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\thiag\\OneDrive\\Área de Trabalho\\ECommerceLambda\\ECommerceLambda.Domain\\ECommerceLambda.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\thiag\\.nuget\\packages\\awssdk.core\\3.7.106.45\\awssdk.core.3.7.106.45.nupkg.sha512",
+    "C:\\Users\\thiag\\.nuget\\packages\\awssdk.dynamodbv2\\3.7.103.14\\awssdk.dynamodbv2.3.7.103.14.nupkg.sha512"
+  ],
+  "logs": []
+}

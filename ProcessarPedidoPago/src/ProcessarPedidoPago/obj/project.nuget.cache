@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "RKCe22vrG44dRb1azz7HrHnBh69DWEO+RhKwh+B09y40O3nYWvnRxTI3FJ/DttOvmSVLvip5rrjxdD2YHqxeIA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\thiag\\OneDrive\\Área de Trabalho\\ECommerceLambda\\ProcessarPedidoPago\\src\\ProcessarPedidoPago\\ProcessarPedidoPago.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\thiag\\.nuget\\packages\\amazon.lambda.core\\2.1.0\\amazon.lambda.core.2.1.0.nupkg.sha512",
+    "C:\\Users\\thiag\\.nuget\\packages\\amazon.lambda.serialization.systemtextjson\\2.3.1\\amazon.lambda.serialization.systemtextjson.2.3.1.nupkg.sha512",
+    "C:\\Users\\thiag\\.nuget\\packages\\amazon.lambda.sqsevents\\2.1.0\\amazon.lambda.sqsevents.2.1.0.nupkg.sha512",
+    "C:\\Users\\thiag\\.nuget\\packages\\awssdk.core\\3.7.107.7\\awssdk.core.3.7.107.7.nupkg.sha512",
+    "C:\\Users\\thiag\\.nuget\\packages\\awssdk.dynamodbv2\\3.7.103.14\\awssdk.dynamodbv2.3.7.103.14.nupkg.sha512",
+    "C:\\Users\\thiag\\.nuget\\packages\\awssdk.s3\\3.7.106\\awssdk.s3.3.7.106.nupkg.sha512",
+    "C:\\Users\\thiag\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "C:\\Users\\thiag\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\thiag\\.nuget\\packages\\microsoft.netcore.app.crossgen2.win-x64\\6.0.21\\microsoft.netcore.app.crossgen2.win-x64.6.0.21.nupkg.sha512"
+  ],
+  "logs": []
+}
